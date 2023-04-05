@@ -1,0 +1,6 @@
+numpy
+gin-config
+t5
+seqio
+flax
+optax
